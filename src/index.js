@@ -1,3 +1,6 @@
+
+import { myFunc } from "./test";
+
 const hourEl = document.getElementById("hour");
 const minutesEl = document.getElementById("minutes");
 const secondEl = document.getElementById("second");
@@ -28,3 +31,5 @@ function updateClock() {
 }
 
 updateClock();
+
+myFunc();

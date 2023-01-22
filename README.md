@@ -1,8 +1,13 @@
-###Digital-Clock
+# Digital-Clock
 
-##Demo
+![](https://github.com/maryhbb/Digital-Clock/actions/workflows/workflow.yml/badge.svg)
+
+
+## Demo
+
 https://maryhbb.github.io/Digital-Clock/
 
 
-##Screenshot
+## Screenshot
+
 ![](images/ax2.png)
